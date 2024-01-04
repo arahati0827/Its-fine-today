@@ -35,7 +35,7 @@ export default function Home() {
       href='https://ja.wikipedia.org/wiki/Hello_world'
       className='test exe'>Hello World</a>
 
-      <p className='test'>🍗</p>
+      <p className='test'>🍖</p>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
