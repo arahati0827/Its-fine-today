@@ -36,6 +36,7 @@ export default function Home() {
       className='test exe'>Hello World</a>
 
       <p className='test'>🍖</p>
+      <p>メールアドレス：<input type="text" name="email" /></p>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
